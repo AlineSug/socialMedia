@@ -14,3 +14,17 @@ Working on Social Media Base has been an incredibly valuable experience.
 Throughout the development process, 
 I have deepened my understanding of full-stack architecture, authentication flows, API design, security best practices, and modern frontend frameworks. 
 I plan to continue expanding and refining this project, adding new features, improving performance, and enhancing the overall user experience as I grow as a developer.
+
+![Image](https://github.com/user-attachments/assets/dd928eea-3423-4498-ad2a-0298831336b6)
+
+![Image](https://github.com/user-attachments/assets/4ca1cea7-0e60-4cae-9d78-74e892853047)
+
+![Image](https://github.com/user-attachments/assets/5d063d5f-2af2-48cf-a805-4cd3d86b6422)
+
+![Image](https://github.com/user-attachments/assets/bb5d6861-58e4-4177-97d7-6acfc69aa437)
+
+![Image](https://github.com/user-attachments/assets/c0004bdf-0aa7-4f83-b55e-e27636fcf696)
+
+![Image](https://github.com/user-attachments/assets/3f8953eb-1072-4084-b821-215ffe181a27)
+
+![Image](https://github.com/user-attachments/assets/bc8fc024-8917-4bc5-b56c-0cd53583b812)
